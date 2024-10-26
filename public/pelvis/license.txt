@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bony Pelvis, Supply, Organs from MRI
+* source:	https://sketchfab.com/3d-models/bony-pelvis-supply-organs-from-mri-8c12064abe744fc7b13fe9aded2d4b02
+* author:	audreybyrd (https://sketchfab.com/audreybyrd)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bony Pelvis, Supply, Organs from MRI" (https://sketchfab.com/3d-models/bony-pelvis-supply-organs-from-mri-8c12064abe744fc7b13fe9aded2d4b02) by audreybyrd (https://sketchfab.com/audreybyrd) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
