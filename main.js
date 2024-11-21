@@ -49,7 +49,7 @@ spotLight.shadow.bias = -0.0001;
 scene.add(spotLight);
 
 const loader = new GLTFLoader().setPath('public/pelvis/');
-loader.load('scene.gltf', (gltf) => {
+loader.load('scene.gltf', (gl~tf) => {
   console.log('loading model');
   const mesh = gltf.scene;
 
